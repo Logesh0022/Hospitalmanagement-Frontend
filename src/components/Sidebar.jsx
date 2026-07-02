@@ -1,3 +1,4 @@
+import React from "react";
 import { Activity, Bell, CalendarDays, ClipboardList, Home, LogOut, Settings, Stethoscope, UserCircle, UsersRound, X } from 'lucide-react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { getCurrentUser, logoutUser } from '../services/storage.js';

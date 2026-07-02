@@ -1,3 +1,4 @@
+import React from "react";
 import { Bell, CalendarDays, Menu, Search, UserCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { getCurrentUser } from '../services/api.js';

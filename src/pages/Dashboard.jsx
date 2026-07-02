@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useState } from 'react';
 import { CalendarCheck, ClipboardList, Clock3, Stethoscope, Users, TrendingUp } from 'lucide-react';
 import { api } from '../services/api.js';
